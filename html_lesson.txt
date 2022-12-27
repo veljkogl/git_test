@@ -1,0 +1,2 @@
+Im using this .txt file to practice the git commands i learned yesterday, while doing something usefull: saving some html elements and commands that need remembering.
+
