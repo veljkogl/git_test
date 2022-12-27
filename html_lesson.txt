@@ -1,2 +1,4 @@
 Im using this .txt file to practice the git commands i learned yesterday, while doing something usefull: saving some html elements and commands that need remembering.
 
+While it is not so difficult to code the boilerplate aka the base for a website, in VSCode you can do it by just typing "!" in the first line of a .html document.
+
